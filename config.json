@@ -1,8 +1,8 @@
 {
-  "ownerNumber": "62855xxx@s.whatsapp.net",
-  "botName": "Baby Bot",
-  "ownerName": "Ramlan ID",
-  "footer": "*2022 © BABYBOT*",
+  "ownerNumber": [ "6285640068416@s.whatsapp.net", "6282154297520@s.whatsapp.net" ],
+  "botName": "ApriliaBotz",
+  "ownerName": "Apriliaa.store",
+  "footer": "*2022 © Aprilia*",
   "apikey": "BELI ATUH",
   "pathThumb": "./media/logo.jpg",
   "sessionName": "ramlanid",
@@ -13,3 +13,4 @@
     "user": 20
   }
 }
+
