@@ -27,7 +27,9 @@
     "parse-ms": "^2.1.0",
     "parse-ms-js": "^1.2.0",
     "qrcode": "^1.4.4",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.10.0"
   },
   "repository": {
     "type": "git",
